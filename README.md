@@ -1,5 +1,8 @@
 ### Hi 👋
 
+
+ <img src="[https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc](https://steamcommunity.com/sharedfiles/filedetails/?id=1253342059)" alt="welcomegif" />
+
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
   
 ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 
