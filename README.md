@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
- <img src="https://steamuserimages-a.akamaihd.net/ugc/905653584542336774/03F1B4104E414902EBD14461090D6C5A53A695B9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="welcomegif" />
+ <img src="https://github.com/AlsuAl/AlsuAl/blob/77e7e4130dccffc0fe866b33ebb383a419140051/assets/Gifka.gif" alt="welcomegif" />
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
   
