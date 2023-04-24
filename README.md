@@ -4,8 +4,11 @@
  <img src="https://github.com/AlsuAl/AlsuAl/blob/77e7e4130dccffc0fe866b33ebb383a419140051/assets/Gifka.gif" alt="welcomegif" />
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+
 💻 I'm currently working on TypeScript,ReactJS
+
 ✍️ I'm currently learning TypeScript and JS improvements
+
 ☕️ Coffee & 🐈‍⬛ Cats lover
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
